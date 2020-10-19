@@ -17,9 +17,14 @@ namespace Dashboard
             InitializeComponent();
         }
 
-        private void cmbEnvironment_SelectedIndexChanged(object sender, EventArgs e)
+        private void cmbEnvironment_SelectionChangeCommitted(object sender, EventArgs e)
         {
-            switch (cmbEnvironment.SelectedText.ToUpper())
+            
+        }
+
+        private void cmbEnvironment_SelectedValueChanged(object sender, EventArgs e)
+        {
+            switch (cmbEnvironment.Text.ToUpper())
             {
                 case "DEVTEST":
                     btnBuild.Text = "Build and Deploy! (Test Branch)";

@@ -1,0 +1,5 @@
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\TestLibrary\obj\Debug\TestLibrary.csprojAssemblyReference.cache
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\TestLibrary\obj\Debug\TestLibrary.pdb

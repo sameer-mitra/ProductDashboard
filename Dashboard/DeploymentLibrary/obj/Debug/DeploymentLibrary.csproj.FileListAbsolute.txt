@@ -1,0 +1,5 @@
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\DeploymentLibrary\bin\Debug\DeploymentLibrary.dll
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\DeploymentLibrary\bin\Debug\DeploymentLibrary.pdb
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\DeploymentLibrary\obj\Debug\DeploymentLibrary.csprojAssemblyReference.cache
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\DeploymentLibrary\obj\Debug\DeploymentLibrary.dll
+C:\Users\samee\source\repos\ProductDashboard\Dashboard\DeploymentLibrary\obj\Debug\DeploymentLibrary.pdb
